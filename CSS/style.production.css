@@ -73,7 +73,9 @@ color: blue;
 .profile{
   max-width: 700px;
   margin: 13% 20%;
-
+}
+.profile .button{
+  margin-top: 10px;
 }
 .page-header {
   display: -webkit-box;
